@@ -1,7 +1,7 @@
 # Abe's Work Day Scheduler
 
 ## Description 
-[Abe's work-day scheduler]() is an interactive event calendar. It lists today's date at the top. For each hour time block thoroughout the day, the block will be color-coded. The red block (if any) signifies the current time block. Past time windows are colored gray. Time hours yet-to-come are colored green.
+[Abe's work-day scheduler](https://aomaits.github.io/work-day-scheduler/) is an interactive event calendar. It lists today's date at the top. For each hour time block thoroughout the day, the block will be color-coded. The red block (if any) signifies the current time block. Past time windows are colored gray. Time hours yet-to-come are colored green.
 
 For future updates, reducing code reptition would be top priority. Another possible improvement would be to allow the user to enter multiple events which could be stored as an array. This could later be converted back from an array into a list of events within each time hour.  
 
